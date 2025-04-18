@@ -50,9 +50,8 @@ presentation/ # UI screens and ViewModel logic
 - ❌ No unit test coverage
 - 🔄 Exchange rates continue to update in background (should pause with lifecycle)
 - 🧱 UI is functional but minimally styled
-
+- 🌐 String resources are hardcoded – localization support to be added
 ---
 
 ## 📸 Screenshots / Video
-
-!(./ExchangeRatesScreenCast.gif)
+<img src="ExchangeRatesScreenCast.gif" alt="App Demo" width="300"/>
